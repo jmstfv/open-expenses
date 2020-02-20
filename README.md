@@ -14,6 +14,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring.
 
+* [Leave Me Alone](https://leavemealone.app/open/) - Email subscription manager.
+
 * [Pinboard](https://twitter.com/Pinboard/status/494238943894700032) - Bookmarking for introverts.
 
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
