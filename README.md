@@ -12,6 +12,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Cushion](https://cushionapp.com/running-costs) - Time tracking, invoicing, and work forecasting for freelancers.
 
+* [Hanno](https://hanno.co/blog/investing-in-tools-no-brainer/) - Agency specialized in digital healthcare.
+
 * [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring.
 
 * [Leave Me Alone](https://leavemealone.app/open/) - Email subscription manager.
