@@ -10,6 +10,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Candy Japan](https://www.candyjapan.com/behind-the-scenes/running-costs-for-candy-japan) - Japanese candy subscription service.
 
+* [Cronitor](https://blog.cronitor.io/the-aws-spend-of-a-saas-side-business-30bd5dbd91b) - Cron job, background task, and uptime monitoring.
+
 * [Cushion](https://cushionapp.com/running-costs) - Time tracking, invoicing, and work forecasting for freelancers.
 
 * [Hanno](https://hanno.co/blog/investing-in-tools-no-brainer/) - Agency specialized in digital healthcare.
