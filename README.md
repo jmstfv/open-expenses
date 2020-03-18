@@ -24,6 +24,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Pinboard](https://twitter.com/Pinboard/status/494238943894700032) - Bookmarking for introverts.
 
+* [Pixelic](https://blog.pixelic.io/startup-tool-stack/) - Design collaboration software for product teams.
+
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
 
 # Contributing
