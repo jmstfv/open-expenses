@@ -18,7 +18,7 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Hanno](https://hanno.co/blog/investing-in-tools-no-brainer/) - Agency specialized in digital healthcare.
 
-* [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring.
+* [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring and status page service.
 
 * [Leave Me Alone](https://leavemealone.app/open/) - Email subscription manager.
 
