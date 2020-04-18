@@ -8,7 +8,7 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Buffer](https://open.buffer.com/transparent-pricing-buffer/) - Social media management software for brands.
 
-* [Buttondown](https://buttondown.email/running-costs) - Simple newsletter service.
+* [Buttondown](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf) - Simple newsletter service.
 
 * [Candy Japan](https://www.candyjapan.com/behind-the-scenes/running-costs-for-candy-japan) - Japanese candy subscription service.
 
