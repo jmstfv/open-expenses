@@ -30,6 +30,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
 
+* [Sitesauce](https://sitesauce.app/open) - Convert dynamic websites into static ones.
+
 # Contributing
 
 If you know of any other businesses that openly share their expenses (**not revenue!**), feel free to add them to the list by submitting a pull request. Make sure to include a short description of what the business does. Names should be ordered alphabetically.
