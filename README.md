@@ -20,6 +20,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring and status page service.
 
+* [Hexicon](https://www.indiehackers.com/post/it-cost-us-2933-40-to-develop-our-mobile-game-as-a-side-project-heres-what-we-spent-it-on-fb9e33536d) - Strategy word game (mobile app).
+
 * [Leave Me Alone](https://leavemealone.app/open/) - Email subscription manager.
 
 * [Pinboard](https://twitter.com/Pinboard/status/494238943894700032) - Bookmarking for introverts.
