@@ -30,6 +30,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [ReferralHero](https://manuel.friger.io/blog/referralhero-expenses) - Referral marketing software.
 
+* [Starter Story](https://patwalls.com/apps-services-that-i-pay-for) - Newsletter about startups and entreprenuership
+
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
 
 * [Sitesauce](https://sitesauce.app/open) - Convert dynamic websites into static ones.
