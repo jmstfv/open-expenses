@@ -28,7 +28,7 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Pixelic](https://blog.pixelic.io/startup-tool-stack/) - Design collaboration software for product teams.
 
-* [ReferralHero](https://manuel.friger.io/blog/referralhero-expenses) - Referral marketing software.
+* [ReferralHero](https://blog.friger.io/how-much-it-costs-to-run-referralhero/) - Referral marketing software.
 
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
 
