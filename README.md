@@ -2,6 +2,8 @@
 
 A curated list of businesses publicly sharing their expenses.
 
+* [10er](https://10er.app/open) - Recurring tipping for creators (in Danish).
+
 * [Across](https://web.archive.org/web/20200313180716/https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools) - Customer support from Slack channels.
 
 * [Baremetrics](https://twitter.com/Shpigford/status/1070017669888425984) - Revenue analytics and dunning tools for subscription businesses.
