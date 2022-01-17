@@ -2,9 +2,7 @@
 
 A curated list of businesses publicly sharing their expenses.
 
-* [10er](https://10er.app/open) - Recurring tipping for creators (in Danish).
-
-* [Across](https://web.archive.org/web/20200313180716/https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools) - Customer support from Slack channels.
+* [10er](https://10er.app/open) - Recurring tipping for creators.
 
 * [Baremetrics](https://twitter.com/Shpigford/status/1070017669888425984) - Revenue analytics and dunning tools for subscription businesses.
 
@@ -28,8 +26,6 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Pinboard](https://twitter.com/Pinboard/status/494238943894700032) - Bookmarking for introverts.
 
-* [Pixelic](https://blog.pixelic.io/startup-tool-stack/) - Design collaboration software for product teams.
-
 * [ReferralHero](https://blog.friger.io/how-much-it-costs-to-run-referralhero/) - Referral marketing software.
 
 * [Simple Analytics](https://simpleanalytics.com/open) - Simple, privacy-friendly analytics.
@@ -38,7 +34,7 @@ A curated list of businesses publicly sharing their expenses.
 
 # Contributing
 
-If you know of any other businesses that openly share their expenses (**not revenue!**), feel free to add them to the list by submitting a pull request. Make sure to include a short description of what the business does. Names should be ordered alphabetically.
+If you know of any other businesses (or non-profits) that openly share their expenses (**not revenue!**), feel free to add them to the list by submitting a pull request. Make sure to include a short description of what the business does. Names should be ordered alphabetically.
 
 When in doubt, file an issue.
 
