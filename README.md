@@ -24,6 +24,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Leave Me Alone](https://leavemealone.app/open/) - Email subscription manager.
 
+* [Lichess](https://lichess.org/costs) - Open-source Internet chess server.
+
 * [Pinboard](https://twitter.com/Pinboard/status/494238943894700032) - Bookmarking for introverts.
 
 * [ReferralHero](https://blog.friger.io/how-much-it-costs-to-run-referralhero/) - Referral marketing software.
