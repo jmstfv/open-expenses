@@ -34,6 +34,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Sitesauce](https://sitesauce.app/open) - Convert dynamic websites into static ones.
 
+* [TinyPilot KVM](https://twitter.com/deliberatecoder/status/1570806499420827648) - Kernel-based Virtual Machine (KVM) devices for physical-level access to servers.
+
 # Contributing
 
 If you know of any other businesses (or non-profits) that openly share their expenses (**not revenue!**), feel free to add them to the list by submitting a pull request. Make sure to include a short description of what the business does. Names should be ordered alphabetically.
