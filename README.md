@@ -8,7 +8,7 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Buffer](https://open.buffer.com/transparent-pricing-buffer/) - Social media management software for brands.
 
-* [Buttondown](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf) - Simple newsletter service.
+* [Buttondown](https://buttondown.email/stack) - Simple newsletter service.
 
 * [Candy Japan](https://www.candyjapan.com/behind-the-scenes/running-costs-for-candy-japan) - Japanese candy subscription service.
 
@@ -39,6 +39,8 @@ A curated list of businesses publicly sharing their expenses.
 * [Tally](https://blog.tally.so/bootstrapping-our-saas-from-10k-to-20k-mrr/#costs) - Simple form builder.
 
 * [TinyPilot KVM](https://twitter.com/deliberatecoder/status/1570806499420827648) - Kernel-based Virtual Machine (KVM) devices for physical-level access to servers.
+
+* [Waitlist](https://getwaitlist.com/blog/solo-dev-startup-stack) - No-code waitlist builder.
 
 # Contributing
 
