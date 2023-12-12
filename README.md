@@ -36,6 +36,8 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Starter Story](https://twitter.com/thepatwalls/status/1619046184357867525) - Interviews with successful entrepreneurs.
 
+* [Tailscan](https://tailscan.com/open) - A Chrome extension that helps with TailwindCSS development.
+
 * [Tally](https://blog.tally.so/bootstrapping-our-saas-from-10k-to-20k-mrr/#costs) - Simple form builder.
 
 * [TinyPilot KVM](https://twitter.com/deliberatecoder/status/1570806499420827648) - Kernel-based Virtual Machine (KVM) devices for physical-level access to servers.
