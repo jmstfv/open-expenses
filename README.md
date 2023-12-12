@@ -18,7 +18,7 @@ A curated list of businesses publicly sharing their expenses.
 
 * [Hanno](https://hanno.co/blog/investing-in-tools-no-brainer/) - Agency specialized in digital healthcare.
 
-* [Hexadecimal](https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring and status page service.
+* [Hexadecimal](https://web.archive.org/web/20230224204401/https://tryhexadecimal.com/running-costs) - No-nonsense website monitoring and status page service.
 
 * [Hexicon](https://www.indiehackers.com/post/it-cost-us-2933-40-to-develop-our-mobile-game-as-a-side-project-heres-what-we-spent-it-on-fb9e33536d) - Strategy word game (mobile app).
 
